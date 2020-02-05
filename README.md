@@ -7,7 +7,7 @@ Overcome es una aplicación diseñada para *enseñar* a las personas **jóvenes*
 El proyecto inicialmete será una __página web__
 
 ## Objetivo general
-El objetivo general que tenemos visualizado para este proyecto es lograr que las personas en su transición a la etapa adulta aprendan cosas relevantes que usualmente no se nos enseña ni se nos motiva a realizar, es decir, el objetivo es fungir como guia para aquellas personas que atraviesan por esa transición y facilitarles el camino con sencillos pasos.
+Ayudar a las personas a desarrollar habilidades de índole personal, legal y económica necesarias en la vida a través de una aplicación web.
 
 ## Objetivo específico
 Crear guías sobre temas como:
