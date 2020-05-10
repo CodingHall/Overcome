@@ -1,0 +1,3 @@
+Primario -> #202020
+Secundario -> #FFFFFF
+Terciario -> #FF7043
